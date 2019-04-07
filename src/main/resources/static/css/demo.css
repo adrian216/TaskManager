@@ -1,0 +1,44 @@
+.funny {
+	font-style: italic;
+	color: green;
+}
+
+.btn.btn-success {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #5cb85c;
+}
+.btn.btn-success.focus,
+.btn.btn-success:focus {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #5cb85c;
+	outline: none;
+	box-shadow: none;
+}
+.btn.btn-success:hover {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #5cb85c;
+	outline: none;
+	box-shadow: none;
+}
+.btn.btn-success.active,
+.btn.btn-success:active {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #5cb85c;
+	outline: none;
+}
+.btn.btn-success.active.focus,
+.btn.btn-success.active:focus,
+.btn.btn-success.active:hover,
+.btn.btn-success:active.focus,
+.btn.btn-success:active:focus,
+.btn.btn-success:active:hover {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #5cb85c;
+	outline: none;
+	box-shadow: none;
+}
